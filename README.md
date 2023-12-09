@@ -1,4 +1,4 @@
-# Data Engineering Concepts and ETL Pipeline Architecture 🚀📊
+![Pic](https://github.com/BhupeshDewangan/ETL_Pipeline/assets/84950520/14c20ecb-66f7-40da-ab1e-2f6a0aa0bedb)# Data Engineering Concepts and ETL Pipeline Architecture 🚀📊
 
 Welcome to the repository for the video on data engineering concepts, focusing on ETL, ELT, data warehouses, and data lakes. This comprehensive guide provides insights into the key aspects of data integration and processing.
 
@@ -117,11 +117,9 @@ This File covers essential concepts:
 - *Can be more difficult to manage:* The flexibility of data lakes can lead to challenges in data governance and management.
 - *Can be more difficult to query and analyze:* Data lakes may require specialized tools for effective querying and analysis.
 
+## Architecture Design!
 
-
-## Architecture Design
-
-![ETL Pipeline Architecture]([https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.javatpoint.com%2Ftutorial%2Fetl-testing%2Fimages%2Fetl-architecture.png&tbnid=EJYB05CiLF2suM&vet=12ahUKEwjYvvnqk4KDAxUrSmwGHZo2BtYQMygAegQIARBL..i&imgrefurl=https%3A%2F%2Fwww.javatpoint.com%2Fetl-architecture&docid=EGjk1r2OkDfYBM&w=700&h=400&q=etl%20architecture%20javatpoint&ved=2ahUKEwjYvvnqk4KDAxUrSmwGHZo2BtYQMygAegQIARBL])
+![ETL Pipeline Architecture](https://github.com/BhupeshDewangan/ETL_Pipeline/assets/84950520/b0c92edb-731a-45ab-b995-0a86496fa6ef)
 
 The architecture involves stages such as data extraction, transformation, loading, and analysis. The specifics depend on the organization's needs.
 
