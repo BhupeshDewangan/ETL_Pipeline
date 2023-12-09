@@ -1,4 +1,4 @@
-![Pic](https://github.com/BhupeshDewangan/ETL_Pipeline/assets/84950520/14c20ecb-66f7-40da-ab1e-2f6a0aa0bedb)# Data Engineering Concepts and ETL Pipeline Architecture 🚀📊
+# Data Engineering Concepts and ETL Pipeline Architecture 🚀📊
 
 Welcome to the repository for the video on data engineering concepts, focusing on ETL, ELT, data warehouses, and data lakes. This comprehensive guide provides insights into the key aspects of data integration and processing.
 
